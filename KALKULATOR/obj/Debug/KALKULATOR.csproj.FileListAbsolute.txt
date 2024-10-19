@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\bin\Debug\KALKULATOR.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\bin\Debug\KALKULATOR.exe
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\bin\Debug\KALKULATOR.pdb
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.exe
+c:\users\asus\documents\visual studio 2017\Projects\KALKULATOR\KALKULATOR\obj\Debug\KALKULATOR.pdb
