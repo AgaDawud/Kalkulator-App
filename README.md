@@ -1,3 +1,5 @@
+# Kalkulator App
+
 Proyek ini adalah sebuah **Kalkulator** sederhana yang dapat melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
 ## Fitur
